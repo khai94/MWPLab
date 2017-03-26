@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lab Assignment 1: JQuery, Ajax, XML</title>
+	<script src="jquery-3.1.1.min.js"></script>
+	<link rel="stylesheet" href="css/food_style.css">
+</head>
+
+<body>
+	<h3>Food Menu</h3>
+	<div id="food">
+		<TABLE id="table">
+		</TABLE>
+	</div>
+</body>
+
+	<script>
+		$(document).ready(function(){
+			$.ajax(
+			{
+				type: 'GET',
+				url: 'food_menu.xml',
+				dataType: 'xml',
+				success: function(xml)
+				{
+					$(xml).find('food').each(function()
+					{
+						$('#table').append(
+							'<tr>' + 
+								'<td><img src="' + $(this).find('image').text() + '"width="250px" height="250px" border="1px"></td>' +
+								'<td id="column2">' +
+									$(this).find('name').text() + ', ' + $(this).find('price').text() +
+									'<br/><br/><br/>' +
+									$(this).find('description').text() +
+									'<br/><br/>' +
+									'Calories: '+ $(this).find('calories').text() +
+								'</td>' +
+							'</tr>'
+						);
+					});
+				}
+			});
+		});
+	</script>
+</html>

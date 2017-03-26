@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="car_list.xsl"?>
+<list>
+	<car>
+		<image>img/mercedes.jpeg</image>
+		<model>2013 Mercedes Benz B200 BLUEEFFI SERVICE RECORD</model>
+		<mileage>60,000 - 64,999 km </mileage>
+		<capacity>1.6 L </capacity>
+		<transmission>Automatic </transmission>
+		<type>Sedan </type>
+		<location>Kuala Lumpur</location>
+		<price>RM 108,333</price>
+		<desc>Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. </desc>
+		<dealer>Kenny Tan</dealer>
+		<owner> DEALER</owner>
+	</car>
+	<car>
+		<image>img/city.jpeg</image>
+		<model>2013 Honda City E-SPEC FULLBODYKITS</model>
+		<mileage>110,000 - 119,999 km </mileage>
+		<capacity>1.5 L </capacity>
+		<transmission>Automatic </transmission>
+		<type>Sedan </type>
+		<location>Selangor</location>
+		<price>RM 55,800</price>
+		<desc>Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. Kereta yang cantik lagi menarik. </desc>
+		<dealer>Ken Wan</dealer>
+		<owner> DEALER</owner>
+	</car>
+	<car>
+		<image>img/estima.jpeg</image>
+		<model>2006 Toyota Estima AERAS 2 POWER DOORS</model>
+		<mileage>100,000 - 109,999 km </mileage>
+		<capacity>2.4 L </capacity>
+		<transmission>Automatic </transmission>
+		<type>MPV </type>
+		<location>Kuala Lumpur</location>
+		<price>RM 93,800</price>
+		<desc>Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. Kereta yang cantik lagi menarik tertarik kau memang the bomb. </desc>
+		<dealer>Tom Tan</dealer>
+		<owner> DEALER</owner>
+	</car>
+	<car>
+		<image>img/saga.jpeg</image>
+		<model>2010 Proton Saga</model>
+		<mileage>100,000 - 109,999 km </mileage>
+		<capacity>1.6L</capacity>
+		<transmission>Manual</transmission>
+		<type>Sedan</type>
+		<location>Sabah</location>
+		<price>RM 35,100</price>
+		<desc>Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. Kereta yang tak berapa cantik dan menarik. </desc>
+		<dealer>Jason Chong</dealer>
+		<owner> DEALER</owner>
+	</car>
+	<car>
+		<image>img/bmw.jpeg</image>
+		<model>2017 BMW 118i Sport</model>
+		<mileage>n/a</mileage>
+		<capacity>1.5L</capacity>
+		<transmission>Automatic</transmission>
+		<type>Hatchback</type>
+		<location>Selangor</location>
+		<price>RM 167,000</price>
+		<desc>Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. Limited edition kereta yang cantik dan menarik. </desc>
+		<dealer>Leslie Ching</dealer>
+		<owner> DEALER</owner>
+	</car>
+	<car>
+		<image>img/avanza.jpeg</image>
+		<model>2006 Toyota Avanza</model>
+		<mileage>130,000 - 139,999 km</mileage>
+		<capacity>1.3L</capacity>
+		<transmission>Automatic</transmission>
+		<type>MPV</type>
+		<location>Kuala Lumpur</location>
+		<price>RM 18,800</price>
+		<desc>Kereta lama yang masih cantik dan menarik. Kereta lama yang masih cantik dan menarik. Kereta lama yang masih cantik dan menarik. Kereta lama yang masih cantik dan menarik. Kereta lama yang masih cantik dan menarik. Kereta lama yang masih cantik dan menarik. Kereta lama yang masih cantik dan menarik. Kereta lama yang masih cantik dan menarik. </desc>
+		<dealer>Najib Jalil</dealer>
+		<owner> OWNER</owner>
+	</car>
+</list>
